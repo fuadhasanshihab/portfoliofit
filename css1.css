@@ -885,13 +885,13 @@ body.dark .some-icon {
   .mobile-text-right {
     text-align: right !important; } }
 
-[class^="section"] {
+[class^="sectionn"] {
   padding: 136px 0; }
   @media only screen and (max-width: 1179px) {
-    [class^="section"] {
+    [class^="sectionn"] {
       padding: 112px 0; } }
   @media only screen and (max-width: 767px) {
-    [class^="section"] {
+    [class^="sectionn"] {
       padding: 64px 0; } }
 
 .section-bg {
